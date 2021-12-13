@@ -1,0 +1,24 @@
+{
+  "name": "invites",
+  "version": "1.0.0",
+  "description": "web invite where guests can rsvp",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UreeshahMoodley/Wedding-site.git"
+  },
+  "author": "Ureeshah Moodley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UreeshahMoodley/Wedding-site/issues"
+  },
+  "homepage": "https://github.com/UreeshahMoodley/Wedding-site#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
